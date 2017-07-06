@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1 %289_2%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3 (9_14).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4 (9_16).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2 %289_9%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5 %289_21%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6 (9_23).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="7 (9_28).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8 (9_30).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="9 %2810_5%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="10 (10_7).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11 (10_13).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="12 (10_14).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13 (10_19).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14 (10_21).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="15 (10_26).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="16 (10_28).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17 (11_02).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18 (11_4).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="19 (11_9).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20 (11_11).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="21 (11_16).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="22 (11_18).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="23 (11_23).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="24 (11_30).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25 (12_2).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="26 (12_7).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="27 (12_9).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="28 (12_14).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

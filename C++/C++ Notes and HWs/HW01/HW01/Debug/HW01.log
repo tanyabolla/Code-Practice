@@ -1,0 +1,24 @@
+﻿Build started 9/18/2015 5:25:00 PM.
+     1>Project "C:\Users\Tanya\documents\visual studio 2013\Projects\HW01\HW01\HW01.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HW01.cpp
+         HW01.cpp
+     1>c:\users\tanya\documents\visual studio 2013\projects\hw01\hw01\hw01.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tanya\documents\visual studio 2013\projects\hw01\hw01\hw01.cpp(76): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tanya\documents\visual studio 2013\projects\hw01\hw01\hw01.cpp(86): error C2664: 'void warrior(std::ifstream &,std::vector<Warrior,std::allocator<_Ty>> &)' : cannot convert argument 2 from 'const std::vector<Warrior,std::allocator<_Ty>>' to 'std::vector<Warrior,std::allocator<_Ty>> &'
+                 with
+                 [
+                     _Ty=Warrior
+                 ]
+                 Conversion loses qualifiers
+     1>c:\users\tanya\documents\visual studio 2013\projects\hw01\hw01\hw01.cpp(89): error C2664: 'void battle(std::ifstream &,std::vector<Warrior,std::allocator<_Ty>> &)' : cannot convert argument 2 from 'const std::vector<Warrior,std::allocator<_Ty>>' to 'std::vector<Warrior,std::allocator<_Ty>> &'
+                 with
+                 [
+                     _Ty=Warrior
+                 ]
+                 Conversion loses qualifiers
+     1>Done Building Project "C:\Users\Tanya\documents\visual studio 2013\Projects\HW01\HW01\HW01.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.33
